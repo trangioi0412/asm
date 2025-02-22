@@ -1,0 +1,653 @@
+{
+  "product": [
+    {
+      "id": "1",
+      "name": "Nike Air Force 1 '07 Men's Shoes. Nike VN",
+      "price": 300000,
+      "star": 4.5,
+      "comment": 30,
+      "like": 40,
+      "category": 1,
+      "news": 1,
+      "sale": 0,
+      "brand": "Hàn Quốc",
+      "img": "nike_air_force_107_men_shoes.png,nike_air_force_107_men_shoes_2.png,nike_air_force_107_men_shoes_3.png,nike_air_force_107_men_shoes_4.png"
+    },
+    {
+      "id": "2",
+      "name": "Nike - Giày Thời Trang Thể Thao Nam Air Force 1 '07 Men'S Shoes",
+      "price": 430000,
+      "star": 4.5,
+      "comment": 30,
+      "like": 30,
+      "category": 0,
+      "news": 0,
+      "sale": 9,
+      "brand": "Hàn Quốc",
+      "img": "nike_air_force_1_07_men_shoes.webp,nike_air_force_1_07_men_shoes_2.png,nike_air_force_1_07_men_shoes_3.webp,nike_air_force_1_07_men_shoes_4.webp,nike_air_force_1_07_men_shoes_5.webp,nike_air_force_1_07_men_shoes_6.webp"
+    },
+    {
+      "id": "3",
+      "name": "Nike Air Force 1 07 Men Shoes FJ4146-106",
+      "price": 254000,
+      "star": 4.5,
+      "comment": 30,
+      "like": 78,
+      "category": 1,
+      "news": 1,
+      "sale": 0,
+      "brand": "Hàn Quốc",
+      "img": "nike_air_force_1_07_men_shoes_FJ4146-106.png,nike_air_force_1_07_men_shoes_FJ4146-106_2.png,nike_air_force_1_07_men_shoes_FJ4146-106_3.png,nike_air_force_1_07_men_shoes_FJ4146-106_4.png,nike_air_force_1_07_men_shoes_FJ4146-106_5.png"
+    },
+    {
+      "id": "4",
+      "name": "New Balance 574 Classic Lifestyle - ML574EVG",
+      "price": 10000,
+      "star": 4.5,
+      "comment": 30,
+      "like": 20,
+      "category": 2,
+      "news": 1,
+      "sale": 0,
+      "brand": "Hàn Quốc",
+      "img": "new_balance_574_classic_lifestyle_ML574EVG.webp,new_balance_574_classic_lifestyle_ML574EVG_2.webp,new_balance_574_classic_lifestyle_ML574EVG_3.webp,new_balance_574_classic_lifestyle_ML574EVG_4.webp,new_balance_574_classic_lifestyle_ML574EVG_5.webp,new_balance_574_classic_lifestyle_ML574EVG_6.webp"
+    },
+    {
+      "id": "5",
+      "name": "NEW BALANCE SNEAKER",
+      "price": 10000,
+      "star": 4.5,
+      "comment": 30,
+      "like": 20,
+      "category": 2,
+      "news": 0,
+      "sale": 5,
+      "brand": "Hàn Quốc",
+      "img": "NEW_BALANCE_SNEAKER.webp,NEW_BALANCE_SNEAKER_2.webp,NEW_BALANCE_SNEAKER_3.webp,NEW_BALANCE_SNEAKER_4.webp"
+    },
+    {
+      "id": "6",
+      "name": "New Balance 530",
+      "price": 10000,
+      "star": 4.5,
+      "comment": 30,
+      "like": 6,
+      "category": 2,
+      "news": 0,
+      "sale": 0,
+      "brand": "Hàn Quốc",
+      "img": "New_Balance_530.webp,New_Balance_530_2.webp,New_Balance_530_3.webp,New_Balance_530_4.webp,New_Balance_530_5.webp"
+    },
+    {
+      "id": "7",
+      "name": "CONVERSE Chuck Taylor All Star Lift",
+      "price": 10000,
+      "star": 4.5,
+      "comment": 30,
+      "like": 50,
+      "category": 4,
+      "news": 1,
+      "sale": 5,
+      "brand": "Hàn Quốc",
+      "img": "converse_chuck_taylor_all_star_lift.webp,converse_chuck_taylor_all_star_lift_2.webp,converse_chuck_taylor_all_star_lift_3.webp,converse_chuck_taylor_all_star_lift_4.webp"
+    },
+    {
+      "id": "8",
+      "name": "CONVERSE Chuck Taylor All Star Classic",
+      "price": 10000,
+      "star": 4.5,
+      "comment": 30,
+      "like": 20,
+      "category": 4,
+      "news": 0,
+      "sale": 0,
+      "brand": "Hàn Quốc",
+      "img": "converse_chuck_taylor_all_tar_lassic.webp,converse_chuck_taylor_all_tar_lassic_2.webp,converse_chuck_taylor_all_tar_lassic_3.webp,converse_chuck_taylor_all_tar_lassic_4.webp,converse_chuck_taylor_all_tar_lassic_5.webp"
+    },
+    {
+      "id": "9",
+      "name": "VANS OLD SKOOL CLASSIC BLACK/WHITE",
+      "price": 10000,
+      "star": 4.5,
+      "comment": 30,
+      "like": 13,
+      "category": 5,
+      "news": 0,
+      "sale": 0,
+      "brand": "Hàn Quốc",
+      "img": "vans_old_skool_classic_black_white.webp,vans_old_skool_classic_black_white_2.webp,vans_old_skool_classic_black_white_3.webp,vans_old_skool_classic_black_white_4.webp"
+    },
+    {
+      "id": "10",
+      "name": "VANS CHECKERBOARD SLIP-ON CLASSIC BLACK/OFF WHITE",
+      "price": 10000,
+      "star": 4.5,
+      "comment": 30,
+      "like": 12,
+      "category": 5,
+      "news": 0,
+      "sale": 5,
+      "brand": "Hàn Quốc",
+      "img": "vans_checkerboard_slip_on_classic_black_off_white.webp,vans_checkerboard_slip_on_classic_black_off_white_2.webp,vans_checkerboard_slip_on_classic_black_off_white_3.webp,vans_checkerboard_slip_on_classic_black_off_white_4.webp,vans_checkerboard_slip_on_classic_black_off_white_5.webp"
+    },
+    {
+      "id": "11",
+      "name": "VANS OLD SKOOL CLASSIC NAVY/WHITE",
+      "price": 10000,
+      "star": 4.5,
+      "comment": 30,
+      "like": 10,
+      "category": 5,
+      "news": 0,
+      "sale": 8,
+      "brand": "Hàn Quốc",
+      "img": "vans_old_skool_classic_navy_white.webp,vans_old_skool_classic_navy_white_2.webp,vans_old_skool_classic_navy_white_3.webp,vans_old_skool_classic_navy_white_4.webp"
+    },
+    {
+      "id": "12",
+      "name": "VANS AUTHENTIC CLASSIC BLACK/WHITE",
+      "price": 10000,
+      "star": 4.5,
+      "comment": 30,
+      "like": 50,
+      "category": 5,
+      "news": 0,
+      "sale": 10,
+      "brand": "Hàn Quốc",
+      "img": "vans_authentic_classic_black_white.webp,vans_authentic_classic_black_white_2.webp,vans_authentic_classic_black_white_3.webp,vans_authentic_classic_black_white_4.webp"
+    },
+    {
+      "id": "13",
+      "name": "Balenciaga x Adidas Triple S ‘White Black’",
+      "price": 10000,
+      "star": 4.5,
+      "comment": 30,
+      "like": 40,
+      "category": 6,
+      "news": 0,
+      "sale": 5,
+      "brand": "Hàn Quốc",
+      "img": "balenciaga_adidas_triple_s_white_black.png,balenciaga_adidas_triple_s_white_black_2.png,balenciaga_adidas_triple_s_white_black_3.png,balenciaga_adidas_triple_s_white_black_4.png"
+    },
+    {
+      "id": "14",
+      "name": "Balenciaga Triple S Trainers",
+      "price": 10000,
+      "star": 4.5,
+      "comment": 30,
+      "like": 25,
+      "category": 6,
+      "news": 0,
+      "sale": 0,
+      "brand": "Hàn Quốc",
+      "img": "balenciaga_triple_s_trainers.webp,balenciaga_triple_s_trainers_2.webp,balenciaga_triple_s_trainers_3.webp"
+    },
+    {
+      "id": 14,
+      "name": "gioi",
+      "price": 1,
+      "star": 4,
+      "comment": 5,
+      "like": 6,
+      "category": 1,
+      "news": 0,
+      "sale": 8,
+      "brand": "9"
+    },
+    {
+      "id": 14,
+      "name": "nike fae",
+      "price": 10,
+      "star": 10,
+      "comment": 1,
+      "like": 2,
+      "category": 1,
+      "news": 0,
+      "sale": 2,
+      "brand": "VN"
+    }
+  ],
+  "product_inventory": [
+    {
+      "id": "1",
+      "quantity": 25,
+      "idSize": 1,
+      "idProduct": 1
+    },
+    {
+      "id": "2",
+      "quantity": 26,
+      "idSize": 2,
+      "idProduct": 1
+    },
+    {
+      "id": "3",
+      "quantity": 22,
+      "idSize": 3,
+      "idProduct": 1
+    },
+    {
+      "id": "4",
+      "quantity": 32,
+      "idSize": 5,
+      "idProduct": 1
+    },
+    {
+      "id": "5",
+      "quantity": 30,
+      "idSize": 1,
+      "idProduct": 2
+    },
+    {
+      "id": "6",
+      "quantity": 31,
+      "idSize": 6,
+      "idProduct": 2
+    },
+    {
+      "id": "7",
+      "quantity": 20,
+      "idSize": 4,
+      "idProduct": 2
+    },
+    {
+      "id": "8",
+      "quantity": 18,
+      "idSize": 2,
+      "idProduct": 2
+    },
+    {
+      "id": "9",
+      "quantity": 22,
+      "idSize": 4,
+      "idProduct": 3
+    },
+    {
+      "id": "10",
+      "quantity": 23,
+      "idSize": 3,
+      "idProduct": 3
+    },
+    {
+      "id": "11",
+      "quantity": 20,
+      "idSize": 5,
+      "idProduct": 4
+    },
+    {
+      "id": "12",
+      "quantity": 5,
+      "idSize": 4,
+      "idProduct": 5
+    },
+    {
+      "id": "13",
+      "quantity": 11,
+      "idSize": 2,
+      "idProduct": 5
+    },
+    {
+      "id": "14",
+      "quantity": 22,
+      "idSize": 2,
+      "idProduct": 6
+    },
+    {
+      "id": "15",
+      "quantity": 10,
+      "idSize": 4,
+      "idProduct": 6
+    },
+    {
+      "id": "16",
+      "quantity": 2,
+      "idSize": 5,
+      "idProduct": 6
+    },
+    {
+      "id": "17",
+      "quantity": 0,
+      "idSize": 8,
+      "idProduct": 6
+    },
+    {
+      "id": "18",
+      "quantity": 11,
+      "idSize": 9,
+      "idProduct": 7
+    },
+    {
+      "id": "19",
+      "quantity": 5,
+      "idSize": 6,
+      "idProduct": 7
+    },
+    {
+      "id": "20",
+      "quantity": 3,
+      "idSize": 5,
+      "idProduct": 7
+    },
+    {
+      "id": "21",
+      "quantity": 12,
+      "idSize": 7,
+      "idProduct": 8
+    },
+    {
+      "id": "22",
+      "quantity": 18,
+      "idSize": 6,
+      "idProduct": 8
+    },
+    {
+      "id": "23",
+      "quantity": 21,
+      "idSize": 5,
+      "idProduct": 8
+    },
+    {
+      "id": "24",
+      "quantity": 1,
+      "idSize": 4,
+      "idProduct": 8
+    },
+    {
+      "id": "25",
+      "quantity": 24,
+      "idSize": 3,
+      "idProduct": 8
+    },
+    {
+      "id": "26",
+      "quantity": 13,
+      "idSize": 4,
+      "idProduct": 9
+    },
+    {
+      "id": "27",
+      "quantity": 2,
+      "idSize": 5,
+      "idProduct": 9
+    },
+    {
+      "id": "28",
+      "quantity": 10,
+      "idSize": 6,
+      "idProduct": 9
+    },
+    {
+      "id": "29",
+      "quantity": 10,
+      "idSize": 2,
+      "idProduct": 10
+    },
+    {
+      "id": "30",
+      "quantity": 11,
+      "idSize": 3,
+      "idProduct": 10
+    },
+    {
+      "id": "31",
+      "quantity": 13,
+      "idSize": 4,
+      "idProduct": 10
+    },
+    {
+      "id": "32",
+      "quantity": 5,
+      "idSize": 5,
+      "idProduct": 10
+    },
+    {
+      "id": "33",
+      "quantity": 7,
+      "idSize": 6,
+      "idProduct": 10
+    },
+    {
+      "id": "34",
+      "quantity": 9,
+      "idSize": 7,
+      "idProduct": 10
+    },
+    {
+      "id": "35",
+      "quantity": 5,
+      "idSize": 1,
+      "idProduct": 11
+    },
+    {
+      "id": "36",
+      "quantity": 1,
+      "idSize": 2,
+      "idProduct": 11
+    },
+    {
+      "id": "37",
+      "quantity": 2,
+      "idSize": 3,
+      "idProduct": 11
+    },
+    {
+      "id": "38",
+      "quantity": 10,
+      "idSize": 4,
+      "idProduct": 11
+    },
+    {
+      "id": "39",
+      "quantity": 23,
+      "idSize": 5,
+      "idProduct": 11
+    },
+    {
+      "id": "40",
+      "quantity": 22,
+      "idSize": 6,
+      "idProduct": 11
+    },
+    {
+      "id": "41",
+      "quantity": 24,
+      "idSize": 7,
+      "idProduct": 11
+    },
+    {
+      "id": "42",
+      "quantity": 25,
+      "idSize": 8,
+      "idProduct": 11
+    },
+    {
+      "id": "43",
+      "quantity": 4,
+      "idSize": 9,
+      "idProduct": 11
+    },
+    {
+      "id": "44",
+      "quantity": 4,
+      "idSize": 1,
+      "idProduct": 12
+    },
+    {
+      "id": "45",
+      "quantity": 23,
+      "idSize": 3,
+      "idProduct": 12
+    },
+    {
+      "id": "46",
+      "quantity": 14,
+      "idSize": 4,
+      "idProduct": 12
+    },
+    {
+      "id": "47",
+      "quantity": 15,
+      "idSize": 5,
+      "idProduct": 12
+    },
+    {
+      "id": "48",
+      "quantity": 17,
+      "idSize": 7,
+      "idProduct": 12
+    },
+    {
+      "id": "49",
+      "quantity": 19,
+      "idSize": 8,
+      "idProduct": 12
+    },
+    {
+      "id": "50",
+      "quantity": 12,
+      "idSize": 2,
+      "idProduct": 13
+    },
+    {
+      "id": "51",
+      "quantity": 4,
+      "idSize": 3,
+      "idProduct": 13
+    },
+    {
+      "id": "52",
+      "quantity": 15,
+      "idSize": 6,
+      "idProduct": 13
+    },
+    {
+      "id": "53",
+      "quantity": 18,
+      "idSize": 7,
+      "idProduct": 13
+    },
+    {
+      "id": "54",
+      "quantity": 25,
+      "idSize": 1,
+      "idProduct": 14
+    },
+    {
+      "id": "54",
+      "quantity": 23,
+      "idSize": 2,
+      "idProduct": 14
+    },
+    {
+      "id": "54",
+      "quantity": 16,
+      "idSize": 4,
+      "idProduct": 14
+    },
+    {
+      "id": "54",
+      "quantity": 22,
+      "idSize": 5,
+      "idProduct": 14
+    },
+    {
+      "id": "54",
+      "quantity": 26,
+      "idSize": 7,
+      "idProduct": 14
+    },
+    {
+      "id": "54",
+      "quantity": 26,
+      "idSize": 8,
+      "idProduct": 14
+    },
+    {
+      "id": "54",
+      "quantity": 1,
+      "idSize": 9,
+      "idProduct": 14
+    }
+  ],
+  "size": [
+    {
+      "id": "1",
+      "number": 36
+    },
+    {
+      "id": "2",
+      "number": 37
+    },
+    {
+      "id": "3",
+      "number": 38
+    },
+    {
+      "id": "4",
+      "number": 39
+    },
+    {
+      "id": "5",
+      "number": 40
+    },
+    {
+      "id": "6",
+      "number": 41
+    },
+    {
+      "id": "7",
+      "number": 42
+    },
+    {
+      "id": "8",
+      "number": 43
+    },
+    {
+      "id": "9",
+      "number": 44
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "nike",
+      "img": "nike.jpg"
+    },
+    {
+      "id": "2",
+      "name": "New Balance",
+      "img": ""
+    },
+    {
+      "id": "3",
+      "name": "Adidas",
+      "img": ""
+    },
+    {
+      "id": "4",
+      "name": "Converse",
+      "img": ""
+    },
+    {
+      "id": "5",
+      "name": "Vans",
+      "img": ""
+    },
+    {
+      "id": "6",
+      "name": "Balenciaga",
+      "img": ""
+    }
+  ],
+  "banner": [
+    {
+      "id": "1",
+      "url": ""
+    }
+  ],
+  "user": [
+    {
+      "id": "4369"
+    }
+  ]
+}

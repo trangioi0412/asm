@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./public/css/header_admin.css">
+    <link rel="stylesheet" href="./public/css/product_admin.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css?fbclid=IwAR13GeCKpDnRYumLZWBe8nDm7dQ6Ue96ZQS4S9ZRyHQs9_vmwN_tBqeu0r0">
+</head>
+<body>
+    <div id="container">
+        <header id="header">
+            <img src="../public/img/Sneaker Shop Neutral Urban Logo.png" alt="" class="img_logo">
+            <nav class="header_nav">
+                <a class="header_link" href="">Thống Kê</a>
+                <a class="header_link header_link_click" href="">Quản Lý Sản Phẩm</a>
+                <a class="header_link" href="">Quản Lý Danh Mục</a>
+                <a class="header_link" href="">Quản Lý đơn Hàng</a>
+                <a class="header_link" href="">Quản Lý Khách Hàng</a>
+            </nav>
+        </header>
+        <main id="main">
+            <header class="main_header">
+                <nav class="nav_header">
+                    <p class="main_header_text">admin</p>
+                    <a href="">logout</a>
+                </nav>
+                <div class="nav_header_action">
+                    <button class="product_button">Add New</button>
+                    <div class="nav_header_action_search">
+                        <input type="text" class="nav_header_action_search_input">
+                        <i class="fa-solid fa-magnifying-glass"></i>
+                    </div>
+                </div>
+            </header>
+            <section class="products">
+                <table>
+                    <thead>
+                        <tr>
+                            <td>name</td>
+                            <td>price</td>
+                            <td>star</td>
+                            <td>comment</td>
+                            <td>like</td>
+                            <td>category</td>
+                            <td>new</td>
+                            <td>sale</td>
+                            <td>brand</td>
+                        </tr>
+                    </thead>
+                    <tbody class="products_infor">
+
+                    </tbody>
+                </table>
+            </section>
+            <div id="from_add" class="form_Product">  
+                <form action="" class="form" >
+                    <button class="close_input"><i class="fa-solid fa-xmark"></i></button>
+                    <h4>Nhập thêm mới sản phẩm</h4>
+                    <input class="form_input" type="hidden" name="name" id="product_id"><br>
+                    <div class="form_input_layout">
+                        <label class="label_text" for="">name</label>
+                        <input class="form_input" type="text" name="name" id="product_name"><br>
+                    </div>
+                    <div class="form_input_layout">
+                        <label class="label_text" for="">price</label>
+                        <input class="form_input" type="number" name="price" id="product_price"><br>
+                    </div>
+                    <div class="form_input_layout">
+                        <label class="label_text" for="">star</label>
+                        <input class="form_input" type="number" step="0.01" name="star" id="product_star"><br>
+                    </div>
+                    <div class="form_input_layout">
+                        <label class="label_text" for="">comment</label>
+                        <input class="form_input" type="number" name="comment" id="product_comment"><br>
+                    </div>
+                    <div class="form_input_layout">
+                        <label class="label_text" for="">like</label>
+                        <input class="form_input" type="number" name="like" id="product_like"><br>
+                    </div>
+                    <div class="form_input_layout">
+                        <label class="label_text" for="">category</label>
+                        <select name="" class="form_input" id="form_select">
+                           
+                        </select><br>
+                    </div>
+                    <div class="form_input_layout">
+                        <label class="label_text" for="">new</label>
+                        <div class="form_content_new">
+                            <div>
+                                <label for="">Có</label>
+                                <input class="form_input input_radio" type="radio" name="new" id="product_no_new" value="1">
+                            </div>
+                            <div>
+                                <label for="">Không</label>
+                                <input class="form_input input_radio" type="radio" name="new" id="product_new" value="0"><br>   
+                            </div>
+                        </div>
+                    </div>
+                    <div class="form_input_layout">
+                        <label class="label_text" for="">sale</label>
+                        <input class="form_input" id="product_sale" type="number"><br>
+                    </div>
+                    <div class="form_input_layout">
+                        <label class="label_text" for="">brand</label>
+                        <input class="form_input" type="text" id="product_brand"><br>
+                    </div>
+                    <input type="submit" value="add" id="product_button">
+                </form>
+            </div>
+        </main>
+    </div>
+    <script  type="module" src="./disc/admin.js"></script>
+</body>
+</html>
