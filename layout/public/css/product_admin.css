@@ -129,7 +129,7 @@ h4{
     margin: 0 10px;
 }
 
-#product_button{
+#product_button, #category_button{
     height: 35px;
     width: 60px;
     /* border: none; */

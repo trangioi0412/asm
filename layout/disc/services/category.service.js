@@ -9,4 +9,15 @@ export class SCategory {
         });
         return categories;
     }
+    async deleteCate(id) {
+        try {
+            const option = {
+                method: "DELETE",
+            };
+            await fetch(`${this.root}/deletePro/${id}`, option);
+        }
+        catch (err) {
+            console.error(err);
+        }
+    }
 }

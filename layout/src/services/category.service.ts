@@ -10,4 +10,15 @@ export class SCategory {
         })
         return categories;
     }
+
+    public async deleteCate(id: string) {
+        try{
+            const option = {
+                method: "DELETE",
+            }
+            await fetch(`${this.root}/deletePro/${id}`, option);
+        }catch (err){
+            console.error(err);
+        }
+    }
 }

@@ -27,4 +27,20 @@ export class VCategory {
         select?.appendChild(option);
     })
     }
+
+    public showCateAdmin = (category:MCategory[]) => {
+        category.forEach(cate => {
+            let tbodyInfo = document.querySelector('.category_infor');
+            let trInfo = document.createElement('tr');
+            trInfo.innerHTML = `
+                <td>${cate.name}</td>
+                <td><img src=''/></td>
+                <td>
+                    <button class="updatePro" data-id="${cate.id}">Sửa</button>
+                    <button class="deleteCate" data-id="${cate.id}">xóa</button>
+                </td>
+            `
+            tbodyInfo?.appendChild(trInfo);
+        })
+    };
 }
